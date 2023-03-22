@@ -4,8 +4,8 @@ title: "Orchestra of Noises"
 description: ""
 date: 2018-11-03T10:20:00Z
 weight: 1
-thumbnail: "/assets/images/gen/projects/ofn-1.png"
-image: "/assets/images/gen/projects/ofn-1.png"
+thumbnail: "/assets/images/gen/projects/ofn-1.jpeg"
+image: "/assets/images/gen/projects/ofn-1.jpeg"
 categories: ["workshop"]
 client: "DIY instrument making workshop"
 # role: "Building Designer"
