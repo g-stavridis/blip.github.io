@@ -1,7 +1,7 @@
 # -------------------
 # Jekyll Config
 # --------------------
-baseurl: "blip.github.io"
+baseurl: "/blip.github.io"
 url: "https://blip.github.io/"
 permalink: pretty
 markdown: kramdown
