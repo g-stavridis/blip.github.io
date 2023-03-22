@@ -127,7 +127,7 @@ disqus:
   shortname: "" # Your disqus shortcode. leave this blank to disable comments globally
 
 mailchimp:
-  form_action_url: https://zerostatic.us13.list-manage.com/subscribe/post?u=675276692aebec1c007f8156d&amp;id=3e3da720c2
+  form_action_url: 
 
 contact_form: 
   use_netlify_form: true
