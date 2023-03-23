@@ -14206,7 +14206,7 @@ html[data-mode="dark"] .hero .hero-text.hero-text-invert {
 }
 
 .subscribe .subscribe-form .subscribe-fields input[type="submit"]:hover {
-  opactiy: 0.7;
+  opacity: 0.7;
 }
 
 .subscribe .subscribe-form .subscribe-responses {
