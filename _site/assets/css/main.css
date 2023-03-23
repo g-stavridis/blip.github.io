@@ -14189,7 +14189,7 @@ html[data-mode="dark"] .hero .hero-text.hero-text-invert {
 .subscribe .subscribe-form .subscribe-fields input[type="submit"] {
   font-size: inherit;
   font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, sans-serif;
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   border: none;
   cursor: pointer;
   max-width: 160px;
