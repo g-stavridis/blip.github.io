@@ -1,7 +1,8 @@
 ---
 layout: project
 title: "about"
-date: 2018-11-28T15:15:34+10:00
+# date: 2018-11-28T15:15:34+10:00
+links: https://www.gstavridis.xyz/, http://stenos.me/
 permalink: "/about/"
 description: ""
 gallery:

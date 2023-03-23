@@ -36,9 +36,10 @@ body_classes: page-project
         </div>
         {% endif %}
 
-        {% if page.client %}
-        <div class="project-client">
-          <strong>Client </strong><span>{{ page.client }}</span>
+        {% if page.links %}
+        <div class="project-links">
+          <strong>Links </strong>
+          <div>{{ page.links }}</div>
         </div>
         {% endif %}
 
