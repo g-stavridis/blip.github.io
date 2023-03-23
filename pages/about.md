@@ -1,13 +1,15 @@
 ---
-layout: basic
+layout: project
 title: "about"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
 description: ""
-image: "/assets/images/gen/content/ofn-7.jpeg"
+gallery:
+  - image: "/assets/images/gen/projects/setups-1.jpeg"
+  - image: "/assets/images/gen/content/ofn-7.jpeg"
 ---
 
-Blip (Yorgos Stenos and Yorgos Stavridis) explore the inherent sound potential of materials, objects and electronic circuits through making, on-site action and improvisation. Their communal musical practice focuses on gesture, texture and timbre within a spatial, perceptual and physical approach, while addressing the relations between activities of listening, improvising and composing as inseparably connected and reciprocal. Τhey have collaborated in various projects in the past, as members of the experimental group Trigger Happy and KeDiMouRa collective. Recently, they both contributed in the development of the experimental platform [loskop.radio](https://loskop.radio/shows/){:target="_blank"} and they are conducting an annual 7-day sonic experimentation workshop in Ikaria, Greece, the Orchestra of Noises.
+Blip (Yorgos Stenos and Yorgos Stavridis) explore the inherent sound potential of materials, objects and electronic circuits through making, on-site action and improvisation. Their communal musical practice focuses on gesture, texture and timbre within a spatial, perceptual and physical approach, while addressing the relations between activities of listening, improvising and composing as inseparably connected and reciprocal. Τhey have collaborated in various projects in the past, as members of the experimental group Trigger Happy and KeDiMouRa collective. Recently, they both contributed in the development of the experimental platform [loskop.radio](https://loskop.radio/shows/){:target="_blank"} and they are conducting an annual 7-day sonic experimentation workshop in Ikaria (GR), the Orchestra of Noises.
 
 <!-- 
 
