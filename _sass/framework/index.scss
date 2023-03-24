@@ -1,4 +1,3 @@
-
 // Bootstrap v5.2.0-beta1
 // https://getbootstrap.com/docs/5.2/customize/sass/#importing
 
@@ -19,7 +18,7 @@
 
 // 6. Optionally include any other parts as needed
 @import "bootstrap/utilities";
-@import "bootstrap/containers"; 
+@import "bootstrap/containers";
 @import "bootstrap/grid";
 @import "bootstrap/buttons";
 
@@ -68,11 +67,13 @@ $fa-font-path: "../fonts/font-awesome/webfonts";
 @import "libraries/font-awesome/solid.scss";
 @import "libraries/font-awesome/regular.scss";
 @import "libraries/font-awesome/brands.scss";
+
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
+
 body {
   margin: 0;
   font-family: $font-family-base;
@@ -83,6 +84,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
+
 .page {
   .wrapper {
     flex: 1;
@@ -95,5 +97,4 @@ body {
 }
 
 // Tweaks for dark mode
-html[data-mode="dark"] {
-}
+html[data-mode="light"] {}
