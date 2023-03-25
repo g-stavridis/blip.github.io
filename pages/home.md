@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: ""
+title: "Blip"
 description: ""
-meta_description: "Licence to Fab uses motorsports to develop the future of power systems."
-meta_title: Licence to Fab
+meta_description: ""
+meta_title: Blip
 subscribe: false
 
 projects:
