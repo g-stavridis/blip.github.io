@@ -10,8 +10,8 @@ categories: ["workshop"]
 client: "DIY instrument making workshop"
 # role: "Building Designer"
 gallery:
+  - image: "/assets/images/gen/projects/oon-6.jpeg"
   - image: "/assets/images/gen/projects/ofn-2.png"
-  - image: "/assets/images/gen/projects/ofn-7.jpeg"
   - image: "/assets/images/gen/projects/ofn-3.jpeg"
 gallery_limit: 3
 ---

@@ -4,14 +4,14 @@ title: "Aeolian Music"
 description: ""
 date: 2020-11-03T10:20:00Z
 weight: 3
-thumbnail: "/assets/images/gen/projects/aeolian-music-2.jpeg"
-image: "/assets/images/gen/projects/aeolian-music-5.jpeg"
+thumbnail: "/assets/images/gen/projects/aeolian-music-1.jpeg"
+image: "/assets/images/gen/projects/aeolian-music-1.jpeg"
 categories: ["site-specific installation"]
 client: "235-meter Aeolian Harp"
 # role: "Building Designer"
 gallery:
+  - image: "/assets/images/gen/projects/aeolian-music-2.jpeg"
   - image: "/assets/images/gen/projects/aeolian-music-6.jpeg"
-  - image: "/assets/images/gen/projects/aeolian-music-1.jpeg"
   - image: "/assets/images/gen/projects/aeolian-music-3.jpeg"
 gallery_limit: 3
 ---
