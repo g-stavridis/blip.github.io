@@ -13931,9 +13931,11 @@ html[data-mode="dark"] .partners img {
 }
 
 .heading .heading-heading h1 {
-  font-size: 26px;
-  line-height: 1.1;
-  font-weight: 300;
+  font-size: 48px;
+  letter-spacing: -2px;
+  line-height: 1.2;
+  font-weight: 700;
+  margin-bottom: 10px;
   font-family: DM Sans, -apple-system, serif;
 }
 
@@ -24633,7 +24635,7 @@ body {
 
 @media (min-width: 768px) {
   .page-project .project-heading h1 {
-    font-size: 36px;
+    font-size: 48px;
   }
 }
 
