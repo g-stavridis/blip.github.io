@@ -112,7 +112,7 @@ logo:
   show_logo_text_on_desktop: true
 
 header:
-  fixed: true
+  fixed: false
 
 darkmode:
   enable_dark_mode: false
