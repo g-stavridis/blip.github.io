@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: "Blip"
+title: ""
 description: ""
 meta_description: ""
 meta_title: Blip
