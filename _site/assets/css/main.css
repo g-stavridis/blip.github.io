@@ -3685,9 +3685,9 @@ html[data-mode="dark"] .highlight .gu { color: #75715e; }
 html[data-mode="dark"] .highlight .gd { color: #f92672; }
 html[data-mode="dark"] .highlight .gi { color: #a6e22e; }
 
-.section { background-repeat: no-repeat; padding-top: 60px; padding-bottom: 60px; }
-@media (min-width: 768px) { .section { padding-top: 60px; padding-bottom: 60px; } }
-@media (min-width: 992px) { .section { padding-top: 30px; padding-bottom: 15px; } }
+.section { background-repeat: no-repeat; padding-top: 15px; padding-bottom: 15px; }
+@media (min-width: 768px) { .section { padding-top: 15px; padding-bottom: 15px; } }
+@media (min-width: 992px) { .section { padding-top: 15px; padding-bottom: 15px; } }
 .section .section-heading { text-align: center; margin-bottom: 30px; }
 .section .section-footer { margin-top: 30px; text-align: center; }
 
@@ -3792,7 +3792,7 @@ html[data-mode="dark"] .dropdown-menu .dropdown-item .dropdown-item-icon.icon-in
 .dropdown-menu .dropdown-item .dropdown-item-content .dropdown-item-name { font-size: 16px; font-weight: 500; color: var(--color-base-text); }
 .dropdown-menu .dropdown-item .dropdown-item-content .dropdown-item-description { font-size: 16px; font-weight: 400; color: var(--color-base-text-2); }
 
-.menu-main-mobile { position: fixed; background: var(--color-primary); width: 100%; height: 100%; top: 0; left: 0; opacity: 0; visibility: hidden; transition: all 0.5s ease; z-index: 100; display: flex; overflow: hidden; justify-content: flex-start; flex-direction: column; }
+.menu-main-mobile { position: fixed; background: black; width: 100%; height: 100%; top: 0; left: 0; opacity: 0; visibility: hidden; transition: all 0.5s ease; z-index: 100; display: flex; overflow: hidden; justify-content: flex-start; flex-direction: column; }
 .menu-main-mobile .menu-main-mobile-top { display: flex; flex-direction: row; justify-content: flex-end; align-items: center; height: 60px; }
 .menu-main-mobile .menu-main-mobile-center { display: flex; justify-content: center; flex-direction: column; flex: 1; }
 .menu-main-mobile .menu-main-mobile-bottom { padding: 30px; display: flex; flex-direction: row; justify-content: space-between; align-items: center; }
@@ -3885,8 +3885,8 @@ form input[type="submit"] { -webkit-appearance: none; border: none; cursor: poin
 @media (min-width: 768px) { .partners img { width: auto; max-width: 120px; max-height: 50px; } }
 html[data-mode="dark"] .partners img { filter: grayscale(100%) invert(100%); }
 
-.heading .heading-heading h1 { font-size: 26px; line-height: 1.1; font-weight: 300; font-family: DM Sans, -apple-system, serif; }
-@media (min-width: 768px) { .heading .heading-heading h1 { line-height: 1; width: 80%; } }
+.heading .heading-heading h1 { font-family: DM Sans, -apple-system, serif; font-size: 30px; letter-spacing: -1px; line-height: 1.2; font-weight: 400; margin-bottom: 10px; }
+@media (min-width: 768px) { .heading .heading-heading h1 { font-size: 36px; line-height: 1; width: 80%; } }
 .heading .heading-heading h1 strong { font-style: normal; text-decoration-line: underline; text-decoration-color: antiquewhite; }
 .heading .heading-description { width: 90%; }
 .heading .heading-description p { font-size: 22px; letter-spacing: -1px; line-height: 1.24; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, sans-serif; color: var(--color-base-text-2); }
@@ -8968,9 +8968,9 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 .page-post .title h1 { font-weight: 500; }
 .page-post .categories a { font-size: 15px; background: var(--color-primary); color: var(--color-primary-text); display: inline-flex; font-family: Fira Mono, SFMono-Regular, Menlo, Monaco, Consolas, "Courier New", monospace; padding: 6px 12px; border-radius: 4px; margin-right: 10px; }
 
-.page-project .project-heading h1 { font-size: 36px; letter-spacing: -2px; line-height: 1.2; font-weight: 700; margin-bottom: 10px; }
-@media (min-width: 768px) { .page-project .project-heading h1 { font-size: 48px; } }
-.page-project .project-categories { margin-bottom: 40px; }
+.page-project .project-heading h1 { font-size: 30px; letter-spacing: -1px; line-height: 1.2; font-weight: 500; margin-bottom: 10px; }
+@media (min-width: 768px) { .page-project .project-heading h1 { font-size: 36px; } }
+.page-project .project-categories { margin-bottom: 15px; }
 .page-project .project-categories a { color: var(--color-base-text); font-weight: 500; }
 .page-project .project-description { width: 80%; }
 .page-project .gallery { display: grid; gap: 30px; }
