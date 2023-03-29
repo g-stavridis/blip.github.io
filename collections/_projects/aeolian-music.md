@@ -20,8 +20,10 @@ Long strings of various materials are attached to the metal structure of Pezi wa
 
 - location: Pezi water dam, Raches, island of Ikaria, Greece -location coordinates: 37.57415312230255, 26.059170485754507
 
+<!-- 
 - During summer the wind is more suitable (July-August) and environmental conditions more friendly for a walk. Spring is usually ok as well.
 
-- During night the wind calms down and it’s normally silent. Otherwise access to the place is 24/24, it’s an outdoor public space, easily approached by car, close to the village of Christos, Raches.
+- During night the wind calms down and it’s normally silent. Otherwise access to the place is 24/24, it’s an outdoor public space, easily approached by car, close to the village of Christos, Raches. 
+-->
 
-{% include framework/shortcodes/youtube.html id='G5NtBMe8APA' %}
+{% include framework/shortcodes/youtube.html id='G5NtBMe8APA' %} 

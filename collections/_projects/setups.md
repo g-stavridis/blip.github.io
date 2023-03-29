@@ -16,7 +16,6 @@ gallery:
 gallery_limit: 3
 ---
 
-In SETUPS, we bring in our solo setups in a contrasting, exploratory live set. Home-brewed electroacoustic micropercussion, electronics and amplified objects by Yorgos Stenos and 
-diverted percussion instruments, objects and microphones by Yorgos Stavridis. Electronic and acoustic, hi-fi and lo-fi, combinations of textures, loops, rhythms, noise, microsounds, serene drones, all as interchangeable sound-blocks in cut-up like structures and immersive, improvisatory time holes.
+In SETUPS, we bring in our solo setups in a contrasting, exploratory live set. Home-brewed electroacoustic micropercussion, electronics and amplified objects by Yorgos Stenos and diverted percussion instruments, objects and microphones by Yorgos Stavridis. Electronic and acoustic, hi-fi and lo-fi, combinations of textures, loops, rhythms, noise, microsounds and serene drones, all as interchangeable sound-blocks in cut-up like structures and improvisatory time holes.
 
 {% include framework/shortcodes/youtube.html id='B6upitnQ5Q8' %}

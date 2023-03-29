@@ -17,6 +17,10 @@ Blip are Yorgos Stenos and Yorgos Stavridis. Together they explore the inherent 
 
 [gstavridis.xyz](https://www.gstavridis.xyz/){:target="_blank"} / [stenos.me](https://www.gstavridis.xyz/){:target="_blank"}
 
+
+<!-- Their communal musical practice focuses on gesture, texture and timbre within a spatial, perceptual and physical approach, while addressing the relations between activities of listening, improvising and composing as inseparably connected and reciprocal. -->
+
+
 <!-- 
 
 
