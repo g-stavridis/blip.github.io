@@ -3885,7 +3885,7 @@ form input[type="submit"] { -webkit-appearance: none; border: none; cursor: poin
 @media (min-width: 768px) { .partners img { width: auto; max-width: 120px; max-height: 50px; } }
 html[data-mode="dark"] .partners img { filter: grayscale(100%) invert(100%); }
 
-.heading .heading-heading h1 { font-family: DM Sans, -apple-system, serif; font-size: 30px; letter-spacing: -1px; line-height: 1.2; font-weight: 400; margin-bottom: 10px; }
+.heading .heading-heading h1 { font-family: DM Sans, -apple-system, serif; font-size: 30px; letter-spacing: -1px; line-height: 1.2; font-weight: 500; margin-bottom: 10px; }
 @media (min-width: 768px) { .heading .heading-heading h1 { font-size: 36px; line-height: 1; width: 80%; } }
 .heading .heading-heading h1 strong { font-style: normal; text-decoration-line: underline; text-decoration-color: antiquewhite; }
 .heading .heading-description { width: 90%; }

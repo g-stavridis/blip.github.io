@@ -3,7 +3,7 @@ main:
   #   url: /
   #   weight: 1
   - name: Projects
-    url: /projects/
+    url: /
     weight: 3
     # child:
     #   - name: "Project Layout 1"

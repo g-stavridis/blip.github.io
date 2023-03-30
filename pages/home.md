@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: "/"
-title: ""
+title: "Projects"
 description: ""
 meta_description: ""
 meta_title: Blip
