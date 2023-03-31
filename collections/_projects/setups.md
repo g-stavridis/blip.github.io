@@ -6,7 +6,7 @@ date: 2020-10-20
 weight: 4
 thumbnail: "/assets/images/gen/projects/setups-color-corrected.jpeg"
 image: "/assets/images/gen/projects/setups-color-corrected.jpg"
-client: "live performance"
+client: "performance - DIY percussion & objects"
 categories: ["performance"]
 # role: "Building Designer"
 gallery:

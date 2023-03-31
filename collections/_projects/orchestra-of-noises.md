@@ -7,7 +7,7 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/ofn-1.jpeg"
 image: "/assets/images/gen/projects/ofn-1.jpeg"
 categories: ["workshop"]
-client: "DIY instrument making workshop"
+client: "workshop - DIY sound experiments"
 # role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/oon-6.jpeg"
