@@ -8991,6 +8991,22 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 .page-project .project-date strong, .page-project .project-role strong, .page-project .project-client strong { display: inline-block; font-weight: 600; width: 70px; }
 .page-project .project-date span, .page-project .project-role span, .page-project .project-client span { display: inline-block; font-weight: 400; }
 
+.subscribe { display: flex; flex-direction: row; flex-wrap: wrap; gap: 15px; }
+
+.email { margin-right: 0px; }
+
+input[type="text"] { width: 100%; display: block; outline: none; border: none; height: 2em; font-size: 17px; margin-bottom: 1px; border-bottom: 2px solid #333; }
+@media (min-width: 768px) { input[type="text"] { width: auto; } }
+
+input[type="text"]:focus { border-bottom: 2px solid #000000; box-shadow: 0 1px 0 0 #000000; }
+
+input::placeholder { color: lightgrey; }
+
+.sub-but { width: 100%; font-family: "Open Sans", sans-serif; font-size: 17px; letter-spacing: 2px; text-decoration: none; text-transform: uppercase; color: #000; cursor: pointer; border: 3px solid; padding: 0.45em 0.5em; box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px; position: relative; user-select: none; -webkit-user-select: none; touch-action: manipulation; background-color: #fdfcf9; top: -5px; left: 0px; margin-bottom: 20px; }
+@media (min-width: 768px) { .sub-but { left: -5px; width: auto; padding: 0.25em 0.5em; } }
+
+.sub-but:active { box-shadow: 0px 0px 0px 0px; top: 0px; left: 0px; }
+
 .card-post { display: flex; flex-direction: column; height: 100%; padding: 0; overflow: hidden; position: relative; border-radius: 4px; }
 .card-post .card-thumbnail { border-radius: 4px; overflow: hidden; }
 .card-post .card-thumbnail a { display: block; }

@@ -13,10 +13,15 @@ gallery:
 gallery_limit: 1
 ---
 
-Blip are Yorgos Stenos and Yorgos Stavridis. Together they explore the inherent sound potential of materials, objects and electronic circuits through making, on-site action and improvisation. Τhey have collaborated in various projects in the past, as members of the experimental group Trigger Happy and KeDiMouRa collective. Recently, they both contributed in the development of the experimental platform [loskop.radio](https://loskop.radio/shows/){:target="_blank"} and they are conducting an annual 7-day sonic experimentation workshop in Ikaria (GR), the Orchestra of Noises.
+Blip are [Yorgos Stenos](https://stenos.me/?i=1){:target="_blank"} and [Yorgos Stavridis](https://www.gstavridis.xyz/){:target="_blank"}. Together they explore the inherent sound potential of materials, objects and electronic circuits through making, on-site action and improvisation. Τhey have collaborated in various projects in the past, as members of the experimental group Trigger Happy and KeDiMouRa collective. Recently, they both contributed in the development of the experimental platform [loskop.radio](https://loskop.radio/shows/){:target="_blank"} and they are conducting an annual 7-day sonic experimentation workshop in Ikaria (GR), the Orchestra of Noises.
 
-**Contact:** [e-mail](mailto:yorgos.stavridis@gmail.com){:target="_blank"}<br>
-**Links:** [gstavridis.xyz](https://www.gstavridis.xyz/){:target="_blank"} / [stenos.me](https://stenos.me/?i=1){:target="_blank"}
+**Get in touch, send us an [e-mail](mailto:blipduo@gmail.com).**
+
+**Receive updates on our upcoming activities:**
+<!-- **Stay informed with our upcoming activities.** -->
+<!-- **Contact:** [e-mail](mailto:yorgos.stavridis@gmail.com){:target="_blank"}<br>
+**Links:** [gstavridis.xyz](https://www.gstavridis.xyz/){:target="_blank"} / [stenos.me](https://stenos.me/?i=1){:target="_blank"}<br>
+**Newsletter:** -->
 
 
 <!-- Their communal musical practice focuses on gesture, texture and timbre within a spatial, perceptual and physical approach, while addressing the relations between activities of listening, improvising and composing as inseparably connected and reciprocal. -->

@@ -25,7 +25,15 @@ body_classes: page-project
         </div>
         {% endif %}
 
-        <div class="content">{{ content }}</div>
+        <div class="content">{{ content }}
+          <div class="subscribe">
+            <input class="email" type="text" placeholder="Enter your e-mail" name="mail" required>
+            <button class="sub-but">SUBSCRIBE!</button>
+            <!-- <button class="sub-but">CONTACT!</button> -->
+          </div>
+        </div>
+
+
         <!-- 
         {% if page.date or page.client or page.role %}
         <div class="project-stats">
