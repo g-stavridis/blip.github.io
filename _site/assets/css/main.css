@@ -8993,6 +8993,8 @@ body { margin: 0; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, 
 
 .subscribe { display: flex; flex-direction: row; flex-wrap: wrap; gap: 15px; }
 
+form { display: flex; gap: 10px; flex-direction: row; flex-wrap: wrap; }
+
 .email { margin-right: 0px; }
 
 input[type="email"] { width: 100%; display: block; outline: none; border: none; height: 2em; font-size: 17px; margin-bottom: 1px; border-bottom: 2px solid #333; }
@@ -9002,12 +9004,12 @@ input[type="email"]:focus { border-bottom: 2px solid #000000; box-shadow: 0 1px 
 
 input::placeholder { color: lightgrey; }
 
-form input[type="submit"] { border: 3px solid; }
+form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 
-.sub-but { width: 100%; font-family: "Open Sans", sans-serif; font-size: 17px; letter-spacing: 2px; text-decoration: none; text-transform: uppercase; color: #000; cursor: pointer; border: 3px solid; padding: 0.45em 0.5em; box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px; position: relative; user-select: none; -webkit-user-select: none; touch-action: manipulation; background-color: #fdfcf9; top: -5px; left: 0px; margin-bottom: 10px 0px 20px 0px; }
+.sub-but { width: 100%; font-family: "Open Sans", sans-serif; font-size: 17px; letter-spacing: 2px; text-decoration: none; text-transform: uppercase; color: #000; cursor: pointer; border: 3px solid; padding: 0.45em 0.5em; box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px; position: relative; user-select: none; -webkit-user-select: none; touch-action: manipulation; background-color: #fdfcf9; top: -15px; left: 0px; margin-bottom: 10px 0px 20px 0px; }
 @media (min-width: 768px) { .sub-but { left: -5px; width: auto; padding: 0.25em 0.5em; } }
 
-.sub-but:active { box-shadow: 0px 0px 0px 0px; top: 0px; left: 0px; }
+.sub-but:active { box-shadow: 0px 0px 0px 0px; top: -10px; left: 0px; }
 
 .card-post { display: flex; flex-direction: column; height: 100%; padding: 0; overflow: hidden; position: relative; border-radius: 4px; }
 .card-post .card-thumbnail { border-radius: 4px; overflow: hidden; }

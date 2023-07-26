@@ -123,6 +123,13 @@
   gap: 15px;
 }
 
+form {
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 .email {
   margin-right: 0px;
 }
@@ -159,7 +166,11 @@ input::placeholder {
 
 form input[type="submit"] {
   border: 3px solid;
+  left: -10px;
+  margin: 10px 0px;
+
 }
+
 
 .sub-but {
   width: 100%;
@@ -178,7 +189,7 @@ form input[type="submit"] {
   -webkit-user-select: none;
   touch-action: manipulation;
   background-color: #fdfcf9;
-  top: -5px;
+  top: -15px;
   left: 0px;
   margin-bottom: 10px 0px 20px 0px;
 
@@ -192,6 +203,6 @@ form input[type="submit"] {
 
 .sub-but:active {
   box-shadow: 0px 0px 0px 0px;
-  top: 0px;
+  top: -10px;
   left: 0px;
 }
