@@ -3751,8 +3751,8 @@ body.has-fixed-header .section:first-of-type { padding-top: 120px; padding-botto
 .logos a img { vertical-align: bottom; }
 .logos .logo { display: flex; justify-content: flex-start; align-items: center; }
 .logos .logo .logo-image { margin-right: 4px; }
-.logos .logo .logo-text { font-size: 36px; font-weight: 500; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, sans-serif; color: var(--color-logo-text); }
-.logos .logo .logo-text a { color: var(--color-logo-text); }
+.logos .logo .logo-text { font-size: 36px; font-weight: 500; font-family: DM Sans, -apple-system, "Helvetica Neue", Arial, sans-serif; color: #111827; }
+.logos .logo .logo-text a { color: #111827; }
 .logos .logo-desktop { display: none; }
 @media (min-width: 576px) { .logos .logo-desktop { display: flex; } }
 .logos .logo-mobile { display: flex; }
