@@ -80,14 +80,23 @@ colors:
   text_2: "#3b364c"
 
   # dark-mode colors
+  # primary_dark: "#0d042b"
+  # primary_2_dark: "#0d042b"
+  # primary_text_dark: "#fdfcf9"
+  # background_dark: "#000000"
+  # background_2_dark: "#000000"
+  # background_3_dark: "#000000"
+  # text_dark: "#f5f5ec"
+  # text_2_dark: "#929eaf"
+
   primary_dark: "#0d042b"
   primary_2_dark: "#0d042b"
   primary_text_dark: "#fdfcf9"
-  background_dark: "#000000"
-  background_2_dark: "#000000"
-  background_3_dark: "#000000"
-  text_dark: "#f5f5ec"
-  text_2_dark: "#929eaf"
+  background_dark: "#fdfcf9"
+  background_2_dark: "#f7f6ed"
+  background_3_dark: "#faebd7"
+  text_dark: "#0d042b"
+  text_2_dark: "#3b364c"
 
 fonts:
   google_fonts: "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fira+Mono&display=swap"
