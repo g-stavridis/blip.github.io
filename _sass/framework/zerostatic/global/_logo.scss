@@ -25,10 +25,12 @@
       font-size: 36px;
       font-weight: 500;
       font-family: $font-family-logo;
-      color: var(--color-logo-text);
+      // color: var(--color-logo-text);
+      color: #111827;
 
       a {
-        color: var(--color-logo-text);
+        // color: var(--color-logo-text);
+        color: #111827;
       }
     }
   }
