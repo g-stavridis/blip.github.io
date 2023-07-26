@@ -127,7 +127,7 @@
   margin-right: 0px;
 }
 
-input[type="text"] {
+input[type="email"] {
   // display: flex;
   // padding: 5px;
   // background-color: white;
@@ -148,13 +148,17 @@ input[type="text"] {
   }
 }
 
-input[type="text"]:focus {
+input[type="email"]:focus {
   border-bottom: 2px solid #000000;
   box-shadow: 0 1px 0 0 #000000;
 }
 
 input::placeholder {
   color: lightgrey;
+}
+
+form input[type="submit"] {
+  border: 3px solid;
 }
 
 .sub-but {
@@ -176,7 +180,7 @@ input::placeholder {
   background-color: #fdfcf9;
   top: -5px;
   left: 0px;
-  margin-bottom: 20px;
+  margin-bottom: 10px 0px 20px 0px;
 
   @include media-breakpoint-up(md) {
     left: -5px;
@@ -185,8 +189,9 @@ input::placeholder {
   }
 
 }
+
 .sub-but:active {
-    box-shadow: 0px 0px 0px 0px;
-    top: 0px;
-    left: 0px;
-  }
+  box-shadow: 0px 0px 0px 0px;
+  top: 0px;
+  left: 0px;
+}
