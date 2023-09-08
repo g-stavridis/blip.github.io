@@ -51,7 +51,7 @@ body_classes: page-project
 
       </div>
 
-      <div class="col-12 col-md-6">
+      <!-- <div class="col-12 col-md-6">
         <div class="project-image">
           <div class="gallery gallery-1">
             {% for item in page.gallery limit: limit %}
@@ -62,13 +62,18 @@ body_classes: page-project
             {% endfor %}
           </div>
         </div>
+      </div> -->
+
+      <div class="col-12 col-md-6">
+        <div class="main-carousel">
+          {% for item in page.gallery limit: limit %}
+          <div class="carousel-cell" style="height: auto;"><img src="{{ item.image | relative_url }}"
+              style="width: 100%;" /></div>
+          {% endfor %}
+        </div>
+
       </div>
 
-      <!-- <div class="main-carousel">
-        {% for item in page.gallery limit: limit %}
-        <div class="carousel-cell"><img src="{{ item.image | relative_url }}" /></div>
-        {% endfor %}
-      </div> -->
 
     </div>
   </div>
