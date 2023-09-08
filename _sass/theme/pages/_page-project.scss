@@ -206,3 +206,42 @@ form input[type="submit"] {
   top: -10px;
   left: 0px;
 }
+
+.flickity-button {
+  background: transparent;
+}
+
+.flickity-prev-next-button:hover {
+  background: transparent;
+}
+
+// .flickity-prev-next-button {
+//   width: 70px;
+//   height: 70px;
+// }
+
+.flickity-button-icon {
+  fill: white;
+}
+
+.flickity-button:disabled {
+  display: none;
+}
+
+// .flickity-page-dots {
+//   bottom: 0px;
+// }
+
+// /* white circles */
+// .flickity-page-dots .dot {
+//   width: 12px;
+//   height: 12px;
+//   opacity: 1;
+//   background: transparent;
+//   border: 2px solid white;
+// }
+
+// /* fill-in selected dot */
+// .flickity-page-dots .dot.is-selected {
+//   background: white;
+// }
