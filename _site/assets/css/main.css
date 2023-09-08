@@ -9019,6 +9019,22 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 
 .flickity-button:disabled { display: none; }
 
+.flickity-page-dots { bottom: 5px; }
+
+/* white circles */
+.flickity-page-dots .dot { width: 12px; height: 12px; opacity: 1; background: transparent; border: 1px solid white; }
+
+/* fill-in selected dot */
+.flickity-page-dots .dot.is-selected { background: white; }
+
+.carousel.is-fullscreen .carousel-cell { height: 100%; }
+
+.videos { margin-top: 20px; }
+
+.plyr__poster { background-size: cover; }
+
+:root { --plyr-color-main: rgba(255, 255, 0, 0.5); }
+
 .card-post { display: flex; flex-direction: column; height: 100%; padding: 0; overflow: hidden; position: relative; border-radius: 4px; }
 .card-post .card-thumbnail { border-radius: 4px; overflow: hidden; }
 .card-post .card-thumbnail a { display: block; }

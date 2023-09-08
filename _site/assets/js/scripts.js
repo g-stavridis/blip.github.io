@@ -5,3 +5,5 @@ var flkty = new Flickity(elem, {
     contain: true,
     fullscreen: true
 });
+
+const players = Plyr.setup('.js-player');
