@@ -23,4 +23,4 @@ Long strings of various materials are attached to the metal structure of Pezi wa
 
 - location: Pezi water dam, Raches, island of Ikaria, GR [37°34'27.0"N 26°03'33.0"E](https://goo.gl/maps/NCJtFxaezq6DQ7eD7){:target="_blank"}
 
-{% include framework/shortcodes/youtube.html id='G5NtBMe8APA' %} 
+<!-- {% include framework/shortcodes/youtube.html id='G5NtBMe8APA' %}  -->
