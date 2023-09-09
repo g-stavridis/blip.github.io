@@ -54,8 +54,12 @@
     var flkty = new Flickity(elem, {
       // options
       cellAlign: 'left',
-      contain: true
+      contain: true,
+      fullscreen: true
     });
+  </script>
+  <script>
+    const players = Plyr.setup('.js-player');
   </script>
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
   <script type="text/javascript" src="{{ '/assets/js/hamburger.js' | relative_url }}"></script>
