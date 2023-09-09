@@ -9027,6 +9027,10 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 /* fill-in selected dot */
 .flickity-page-dots .dot.is-selected { background: white; }
 
+.carousel-cell { height: auto; }
+
+.carousel-cell img { width: 100%; }
+
 .carousel.is-fullscreen .carousel-cell { height: 100%; }
 
 .videos { margin-top: 20px; }

@@ -246,6 +246,14 @@ form input[type="submit"] {
   background: white;
 }
 
+.carousel-cell {
+  height: auto;
+}
+
+.carousel-cell img {
+  width: 100%;
+}
+
 .carousel.is-fullscreen .carousel-cell {
   height: 100%;
 }
