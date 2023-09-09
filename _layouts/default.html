@@ -9,11 +9,11 @@
   {% include framework/global/seo/meta.html %}
 
   <link rel="icon" href="{{ '/assets/images/favicon/favicon.png' | relative_url }}">
-  <link href="https://fonts.gstatic.com" rel="preconnect">
-  <link href="{{ site.fonts.google_fonts }}" rel="stylesheet">
-  <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
   <link href="https://unpkg.com/flickity@2/dist/flickity.min.css" rel="stylesheet" type="text/css">
   <link href="https://cdn.plyr.io/3.7.8/plyr.css" rel="stylesheet" />
+  <link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
+  <link href="https://fonts.gstatic.com" rel="preconnect">
+  <link href="{{ site.fonts.google_fonts }}" rel="stylesheet">
 
 
 
@@ -48,7 +48,7 @@
   <script type="text/javascript" src="{{ '/assets/js/header.js' | relative_url }}"></script>
   {% endif %}
   <script type="text/javascript" src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-  <script>
+  <!-- <script>
     var elem = document.querySelector('.main-carousel');
     var flkty = new Flickity(elem, {
       // options
@@ -56,7 +56,7 @@
       contain: true,
       fullscreen: true
     });
-  </script>
+  </script> -->
   <script type="text/javascript" src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
   <script>
     const players = Plyr.setup('.js-player');
