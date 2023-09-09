@@ -22,12 +22,12 @@
 
 
 
-  <link href="https://unpkg.com/flickity@2/dist/flickity.min.css" rel="stylesheet" type="text/css">
   <link rel="icon" href="/assets/images/favicon/favicon.png">
-  <link href="https://cdn.plyr.io/3.7.8/plyr.css" rel="stylesheet" />
-  <link href="/assets/css/main.css" rel="stylesheet">
   <link href="https://fonts.gstatic.com" rel="preconnect">
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fira+Mono&display=swap" rel="stylesheet">
+  <link href="/assets/css/main.css" rel="stylesheet">
+  <link href="https://unpkg.com/flickity@2/dist/flickity.min.css" rel="stylesheet" type="text/css">
+  <link href="https://cdn.plyr.io/3.7.8/plyr.css" rel="stylesheet" />
 
 
 
@@ -187,7 +187,7 @@
   <li>location: Pezi water dam, Raches, island of Ikaria, GR <a href="https://goo.gl/maps/NCJtFxaezq6DQ7eD7" target="_blank">37°34’27.0”N 26°03’33.0”E</a></li>
 </ul>
 
-<!-- <iframe allow="autoplay; encrypted-media" allowfullscreen frameborder="0" height="350" src="https://www.youtube.com/embed/G5NtBMe8APA" width="100%"></iframe>  -->
+<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="350" src="https://www.youtube.com/embed/G5NtBMe8APA" width="100%"></iframe>
 </div>
         <!-- 
         
@@ -265,7 +265,19 @@
 
   
   <script type="text/javascript" src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+  <script>
+    var elem = document.querySelector('.main-carousel');
+    var flkty = new Flickity(elem, {
+      // options
+      cellAlign: 'left',
+      contain: true,
+      fullscreen: true
+    });
+  </script>
   <script type="text/javascript" src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
+  <script>
+    const players = Plyr.setup('.js-player');
+  </script>
   <script type="text/javascript" src="/assets/js/scripts.js"></script>
   <script type="text/javascript" src="/assets/js/hamburger.js"></script>
   <script type="text/javascript" src="/assets/js/darkModeSwitch.js"></script>
