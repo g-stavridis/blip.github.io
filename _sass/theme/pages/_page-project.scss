@@ -247,7 +247,8 @@ form input[type="submit"] {
 }
 
 .carousel-cell {
-  height: 100px;
+  // height: auto;
+  max-height: 345.922px;
 }
 
 .carousel-cell img {
