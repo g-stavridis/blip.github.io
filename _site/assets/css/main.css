@@ -9027,13 +9027,13 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 /* fill-in selected dot */
 .flickity-page-dots .dot.is-selected { background: white; }
 
-.carousel-cell { max-height: 345.922px; }
+.carousel-cell { height: auto; max-height: 345.922px; }
 
 .carousel-cell img { width: 100%; }
 
 .carousel.is-fullscreen .carousel-cell { height: 100%; }
 
-.videos { margin-top: 20px; }
+.videos { margin: 20px 0px; }
 
 .plyr__poster { background-size: cover; }
 
