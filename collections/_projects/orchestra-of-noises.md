@@ -10,10 +10,10 @@ categories: ["workshop"]
 client: "workshop - DIY sound experiments"
 # role: "Building Designer"
 gallery:
-  - image: "/assets/images/gen/projects/oon-6.jpeg"
-  - image: "/assets/images/gen/projects/ofn-2.png"
-  - image: "/assets/images/gen/projects/ofn-3.jpeg"
-  - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021.jpeg"
+  - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-1.jpeg"
+  - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-2.png"
+  - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-3.jpeg"
+  - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-4.jpeg"
 gallery_limit: 4
 
 youtube:
