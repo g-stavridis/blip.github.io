@@ -281,6 +281,10 @@ form input[type="submit"] {
   height: 100%;
 }
 
+.main-carousel.is-fullscreen .carousel-cell img {
+  width: 80%;
+}
+
 .carousel-cell img {
   display: block;
   // max-height: 100%;
