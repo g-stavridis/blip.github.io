@@ -219,17 +219,28 @@ form input[type="submit"] {
   outline: none;
 }
 
+// .flickity-button:disabled {
+//   display: none;
+// }
+
+.flickity-prev-next-button {
+  width: 0;
+  height: 0;
+
+  @include media-breakpoint-up(md) {
+    width: 50px;
+    height: 50px;
+  }
+}
+
 .flickity-prev-next-button:hover {
   background: transparent;
 }
 
+
 .flickity-button-icon {
   fill: white;
 }
-
-// .flickity-button:disabled {
-//   display: none;
-// }
 
 .flickity-page-dots {
   bottom: 5px;
@@ -312,6 +323,14 @@ form input[type="submit"] {
 
 .plyr__poster {
   background-size: cover;
+}
+
+.plyr__controls {
+  display: none;
+
+  @include media-breakpoint-up(md) {
+    display: flex;
+  }
 }
 
 // .plyr.plyr--stopped .plyr__controls {

@@ -9017,6 +9017,9 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 
 .flickity-button:focus { outline: none; }
 
+.flickity-prev-next-button { width: 0; height: 0; }
+@media (min-width: 768px) { .flickity-prev-next-button { width: 50px; height: 50px; } }
+
 .flickity-prev-next-button:hover { background: transparent; }
 
 .flickity-button-icon { fill: white; }
@@ -9042,6 +9045,9 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 .videos { margin: 20px 0px; }
 
 .plyr__poster { background-size: cover; }
+
+.plyr__controls { display: none; }
+@media (min-width: 768px) { .plyr__controls { display: flex; } }
 
 :root { --plyr-color-main: rgba(255, 255, 0, 0.5); }
 
