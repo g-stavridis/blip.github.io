@@ -9046,8 +9046,8 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 
 .plyr__poster { background-size: cover; }
 
-.plyr__controls { display: none; }
-@media (min-width: 768px) { .plyr__controls { display: flex; } }
+.plyr.plyr--stopped .plyr__controls { display: none; }
+@media (min-width: 768px) { .plyr.plyr--stopped .plyr__controls { display: flex; } }
 
 :root { --plyr-color-main: rgba(255, 255, 0, 0.5); }
 

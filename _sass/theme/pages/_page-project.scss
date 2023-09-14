@@ -325,7 +325,7 @@ form input[type="submit"] {
   background-size: cover;
 }
 
-.plyr__controls {
+.plyr.plyr--stopped .plyr__controls {
   display: none;
 
   @include media-breakpoint-up(md) {
