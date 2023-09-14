@@ -277,14 +277,18 @@ form input[type="submit"] {
 //   height: 100%;
 // }
 
+// .main-carousel {
+//   min-height: 80px;
+// }
+
 .carousel-cell {
   width: 100%;
   /* full width */
   min-height: 100px;
   /* height of carousel */
   margin-right: 10px;
-  background-size: cover;
-  background-position: center center;
+  // background-size: cover;
+  // background-position: center center;
 
 
   @include media-breakpoint-up(md) {
