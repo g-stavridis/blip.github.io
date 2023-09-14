@@ -9017,8 +9017,6 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 
 .flickity-button-icon { fill: white; }
 
-.flickity-button:disabled { display: none; }
-
 .flickity-page-dots { bottom: 5px; }
 
 /* white circles */
@@ -9031,7 +9029,7 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 
 .carousel.is-fullscreen .carousel-cell { height: 100%; }
 
-.carousel-cell img { display: block; max-height: 100%; }
+.carousel-cell img { display: block; max-width: 100%; }
 
 .videos { margin: 20px 0px; }
 
