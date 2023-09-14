@@ -9013,6 +9013,10 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 
 .flickity-button { background: transparent; }
 
+.flickity-button:hover { background: #ffffff54; }
+
+.flickity-button:focus { outline: none; }
+
 .flickity-prev-next-button:hover { background: transparent; }
 
 .flickity-button-icon { fill: white; }
@@ -9025,9 +9029,8 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 /* fill-in selected dot */
 .flickity-page-dots .dot.is-selected, .flickity-enabled.is-fullscreen .flickity-page-dots .dot.is-selected { background: white; }
 
-.flickity-button:hover { background: #ffffff54; }
-
-.carousel-cell { width: 100%; /* full width */ height: 330px; background: #222; /* center images in cells with flexbox */ display: flex; justify-content: center; align-items: center; }
+.carousel-cell { width: 100%; /* full width */ height: 160px; /* height of carousel */ margin-right: 10px; }
+@media (min-width: 768px) { .carousel-cell { width: 100%; /* full width */ height: 330px; background: #222; /* center images in cells with flexbox */ display: flex; justify-content: center; align-items: center; } }
 
 .main-carousel.is-fullscreen .carousel-cell { height: 100%; }
 
