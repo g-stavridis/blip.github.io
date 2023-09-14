@@ -284,7 +284,7 @@ form input[type="submit"] {
 .carousel-cell {
   width: 100%;
   /* full width */
-  min-height: 100px;
+  min-height: 50%;
   /* height of carousel */
   margin-right: 10px;
   // background-size: cover;
@@ -301,6 +301,10 @@ form input[type="submit"] {
     justify-content: center;
     align-items: center;
   }
+}
+
+.flickity-resize .carousel-cell {
+  min-height: 100%;
 }
 
 .main-carousel.is-fullscreen .carousel-cell {
