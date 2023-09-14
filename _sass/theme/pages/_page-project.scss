@@ -289,6 +289,9 @@ form input[type="submit"] {
   margin-right: 10px;
   // background-size: cover;
   // background-position: center center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 
   @include media-breakpoint-up(md) {
@@ -309,6 +312,15 @@ form input[type="submit"] {
 
 .main-carousel.is-fullscreen .carousel-cell {
   height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include media-breakpoint-up(md) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 .main-carousel.is-fullscreen .carousel-cell img {
