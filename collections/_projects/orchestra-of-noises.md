@@ -13,7 +13,8 @@ gallery:
   - image: "/assets/images/gen/projects/oon-6.jpeg"
   - image: "/assets/images/gen/projects/ofn-2.png"
   - image: "/assets/images/gen/projects/ofn-3.jpeg"
-gallery_limit: 3
+  - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021.jpeg"
+gallery_limit: 4
 
 youtube:
   - video: "FGW_SlUhmuA"
