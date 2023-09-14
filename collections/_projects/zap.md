@@ -13,12 +13,12 @@ gallery:
   - image: "/assets/images/gen/projects/zap-stills-1.jpeg"
   - image: "/assets/images/gen/projects/zap-stills-3.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-2.jpeg"
+  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-1.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-3.jpeg"
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-5.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-6.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-4.jpeg"
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-1.jpeg"
-gallery_limit: 2
+  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-5.jpeg"
+gallery_limit: 6
 
 youtube:
   - video: "Y1B9Pb8Sjq4"
