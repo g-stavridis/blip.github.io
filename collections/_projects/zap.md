@@ -17,8 +17,8 @@ gallery:
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
   - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-4.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-3.jpeg"
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-5.jpeg"
-gallery_limit: 7
+  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-8.jpeg"
+gallery_limit: 8
 
 youtube:
   - video: "Y1B9Pb8Sjq4"
