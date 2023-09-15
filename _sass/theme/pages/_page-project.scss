@@ -265,7 +265,8 @@ form input[type="submit"] {
 .carousel-cell {
   width: 100%;
   /* full width */
-  // min-height: 150px;
+  height: auto;
+  min-height: 150px;
   /* height of carousel */
   margin-right: 10px;
   // background-size: cover;
@@ -278,7 +279,8 @@ form input[type="submit"] {
   @include media-breakpoint-up(md) {
     width: 100%;
     /* full width */
-    // max-height: 330px;
+    height: auto;
+    max-height: 330px;
     background: #222;
     /* center images in cells with flexbox */
     display: flex;
