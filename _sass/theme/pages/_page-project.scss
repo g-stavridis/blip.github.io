@@ -300,6 +300,7 @@ form input[type="submit"] {
   align-items: center;
 
   @include media-breakpoint-up(md) {
+    max-height: 100% !important;
     display: flex;
     justify-content: center;
     align-items: center;
