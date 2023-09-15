@@ -14,7 +14,7 @@ gallery:
   - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-2.png"
   - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-3.jpeg"
   - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-4.jpeg"
-gallery_limit: 4
+gallery_limit: 3
 
 youtube:
   - video: "FGW_SlUhmuA"
