@@ -266,7 +266,7 @@ form input[type="submit"] {
   width: 100%;
   /* full width */
   height: 150px;
-  min-height: 150px;
+  min-height: 150px !important;
   /* height of carousel */
   margin-right: 10px;
   // background-size: cover;
@@ -280,7 +280,7 @@ form input[type="submit"] {
     width: 100%;
     /* full width */
     height: 330px;
-    max-height: 330px;
+    max-height: 330px !important;
     background: #222;
     /* center images in cells with flexbox */
     display: flex;
