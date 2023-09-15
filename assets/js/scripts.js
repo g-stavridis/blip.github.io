@@ -7,6 +7,7 @@ var flkty = new Flickity(elem, {
     adaptiveHeight: true,
     // freeScroll: true,
     wrapAround: true,
+    lazyLoad: 1,
     fullscreen: true
 });
 

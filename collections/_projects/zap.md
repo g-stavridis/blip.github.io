@@ -14,7 +14,7 @@ gallery:
   - image: "/assets/images/gen/projects/zap-stills-3.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-2.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-1.jpeg"
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpg"
+  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
   - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-4.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-3.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-5.jpeg"
