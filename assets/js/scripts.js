@@ -2,7 +2,7 @@ var elem = document.querySelector('.main-carousel');
 var flkty = new Flickity(elem, {
     // options
     // cellAlign: 'left',
-    setGallerySize: false,
+    // setGallerySize: false,
     contain: true,
     adaptiveHeight: true,
     // freeScroll: true,
