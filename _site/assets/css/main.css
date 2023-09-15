@@ -9024,7 +9024,7 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 
 .flickity-button-icon { fill: white; }
 
-.flickity-page-dots { bottom: 5px; }
+.flickity-page-dots { bottom: 10px; }
 
 /* white circles */
 .flickity-page-dots .dot, .flickity-enabled.is-fullscreen .flickity-page-dots .dot { width: 12px; height: 12px; opacity: 1; background: none; border: 1px solid white; }
