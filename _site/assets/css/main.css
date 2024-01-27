@@ -9110,7 +9110,7 @@ form input[type="submit"] { border: 3px solid; left: -10px; margin: 10px 0px; }
 .card-project { display: flex; flex-direction: column; height: 100%; padding: 0; background-color: var(--color-card-bg); overflow: hidden; position: relative; border-radius: 4px; }
 .card-project .card-thumbnail { border-radius: 4px; overflow: hidden; }
 .card-project .card-thumbnail a { display: block; }
-.card-project .card-thumbnail img { aspect-ratio: 16 / 9; width: 100%; object-fit: contain; }
+.card-project .card-thumbnail img { aspect-ratio: 16 / 9; width: 100%; object-fit: cover; }
 .card-project .card-thumbnail img:hover { opacity: 0.8; }
 @media (min-width: 768px) { .card-project .card-thumbnail.card-thumbnail-large { max-height: 260px; } }
 @media (min-width: 1360px) { .card-project .card-thumbnail.card-thumbnail-large { max-height: 300px; } }
