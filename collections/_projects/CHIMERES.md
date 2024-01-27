@@ -31,4 +31,4 @@ The performers are present, improvising with the materials, activating or interr
 Sound reveals space while space is becoming sound.  
 The audience is invited to observe, listen, experience and engage with the performance on different levels and points of view.
 
-<!-- {% include framework/shortcodes/youtube.html id='FGW_SlUhmuA' %} -->
+
