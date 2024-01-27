@@ -7,7 +7,7 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/blip-chimeres-1.jpg"
 image: "/assets/images/gen/projects/oblip-chimeres-1.jpg"
 categories: ["performance / installation"]
-client: "workshop - DIY sound experiments"
+client: "performance/installation - sound contraptions"
 # role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/blip-chimeres-1.jpg"
