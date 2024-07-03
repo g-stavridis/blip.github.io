@@ -4,9 +4,10 @@ title: "Zap!"
 description: ""
 date: 2019-12-20
 weight: 2
-thumbnail: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
+# thumbnail: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
+thumbnail: "/assets/images/gen/projects/blip-zap-ket-05-24-4.jpeg"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "performance/installation - exporing EMFs"
+client: "performance - exporing EMFs"
 categories: ["performance"]
 # role: "Building Designer"
 gallery:
