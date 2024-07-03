@@ -21,4 +21,5 @@ Blip are [Yorgos Stenos](https://www.stenos.xyz/){:target="_blank"} and [Yorgos 
 
 [instagram](https://www.instagram.com/blipduo/){:target="_blank"} | 
 [facebook](https://www.facebook.com/people/BLIP-duo/61553158751326/){:target="_blank"} | 
-[youtube](https://youtu.be/DNfIE924CLk?si=7Thv7HAFqFNeUHun){:target="_blank"}
+[youtube](https://youtu.be/DNfIE924CLk?si=7Thv7HAFqFNeUHun){:target="_blank"} | 
+[e-mail](mailto:blipduo@gmail.com)
