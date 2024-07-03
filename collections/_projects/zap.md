@@ -7,19 +7,19 @@ weight: 2
 # thumbnail: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
 thumbnail: "/assets/images/gen/projects/blip-zap-ket-05-24-4.jpeg"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "performance - exporing EMFs"
+client: "performance - Electromagnetic Fields"
 categories: ["performance"]
 # role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
+  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-2.jpeg"
   - image: "/assets/images/gen/projects/zap-stills-1.jpeg"
   - image: "/assets/images/gen/projects/zap-stills-3.jpeg"
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-2.jpeg"
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-1.jpeg"
+  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-3.jpeg"
   # - image: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
   - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-4.jpeg"
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-3.jpeg"
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-8.jpeg"
+  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-1.jpeg"
+  # - image: "/assets/images/gen/projects/blip-zap-gmea-march23-8.jpeg"
 gallery_limit: 8
 
 youtube:
