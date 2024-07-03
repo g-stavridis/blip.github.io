@@ -11,8 +11,8 @@ client: "performance - Electromagnetic Fields"
 categories: ["performance"]
 # role: "Building Designer"
 gallery:
-  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-2.jpeg"
+  - image: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
   - image: "/assets/images/gen/projects/zap-stills-1.jpeg"
   - image: "/assets/images/gen/projects/zap-stills-3.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-3.jpeg"
