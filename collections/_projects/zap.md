@@ -10,6 +10,7 @@ client: "performance/installation - exporing EMFs"
 categories: ["performance"]
 # role: "Building Designer"
 gallery:
+  - image: "/assets/images/gen/projects/blip-zap-ket-05-24-4.jpeg"
   - image: "/assets/images/gen/projects/zap-stills-1.jpeg"
   - image: "/assets/images/gen/projects/zap-stills-3.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-2.jpeg"
@@ -18,7 +19,7 @@ gallery:
   - image: "/assets/images/gen/projects/blip-orchestra-of-noises-2021-4.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-3.jpeg"
   - image: "/assets/images/gen/projects/blip-zap-gmea-march23-8.jpeg"
-gallery_limit: 8
+gallery_limit: 9
 
 youtube:
   - video: "Y1B9Pb8Sjq4"
