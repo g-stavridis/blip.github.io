@@ -15,7 +15,10 @@ gallery_limit: 1
 
 Blip are [Yorgos Stenos](https://www.stenos.xyz/){:target="_blank"} and [Yorgos Stavridis](https://www.gstavridis.xyz/){:target="_blank"}. Together they explore the inherent sound potential of materials, objects and electronic circuits through making, on-site action and improvisation. Τhey have collaborated in various projects in the past, as members of the experimental group Trigger Happy and KeDiMouRa collective. They have contributed to the development of the experimental platform [loskop.radio](https://loskop.radio/shows/){:target="_blank"} and they regularly organise the Blip Lab sound experimentation workshops.
 
-**Get in touch, send us an [e-mail](mailto:blipduo@gmail.com).**
+<!-- **Get in touch, send us an [e-mail](mailto:blipduo@gmail.com).**
 
-**Receive updates on our upcoming activities:**
+**Receive updates on our upcoming activities:** -->
 
+[instagram](https://www.instagram.com/blipduo/){:target="_blank"} | 
+[facebook](https://www.facebook.com/people/BLIP-duo/61553158751326/){:target="_blank"} | 
+[youtube](https://youtu.be/DNfIE924CLk?si=7Thv7HAFqFNeUHun){:target="_blank"}
