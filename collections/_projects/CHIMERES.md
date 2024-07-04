@@ -1,6 +1,6 @@
 ---
 layout: project-right
-title: "CHIMERES"
+title: "Chimeres"
 description: ""
 date: 2018-11-03T10:20:00Z
 weight: 1
@@ -10,18 +10,16 @@ categories: ["performance / installation"]
 client: "performance/installation - sound contraptions"
 # role: "Building Designer"
 gallery:
+  - image: "/assets/images/gen/projects/blip-chimeres-11.jpg"
+  - image: "/assets/images/gen/projects/blip-chimeres-7.jpg"
+  - image: "/assets/images/gen/projects/blip-chimeres-9.jpg"
   - image: "/assets/images/gen/projects/blip-chimeres-1.jpg"
   - image: "/assets/images/gen/projects/blip-chimeres-2.jpg"
-  - image: "/assets/images/gen/projects/blip-chimeres-3.jpg"
   - image: "/assets/images/gen/projects/blip-chimeres-4.jpg"
   - image: "/assets/images/gen/projects/blip-chimeres-5.jpg"
   - image: "/assets/images/gen/projects/blip-chimeres-6.jpg"
-  - image: "/assets/images/gen/projects/blip-chimeres-7.jpg"
-  - image: "/assets/images/gen/projects/blip-chimeres-9.jpg"
   - image: "/assets/images/gen/projects/blip-chimeres-10.jpg"
-  - image: "/assets/images/gen/projects/blip-chimeres-11.jpg"
-  - image: "/assets/images/gen/projects/blip-chimeres-12.jpg"
-gallery_limit: 10
+gallery_limit: 9
 
 youtube:
   - video: "D2-MXa5pmPQ"
@@ -31,7 +29,7 @@ The performers are present, improvising with the materials, activating or interr
 Sound reveals space while space is becoming sound.  
 The audience is invited to observe, listen, experience and engage with the performance on different levels and points of view. -->
 
-A sonic playground where various personal attractions collide: Found objects, self-made constructions, percussion outbursts, raw electronics, acoustic phenomena, experiments with physics laws and materials properties.  
+A sonic playground where various personal attractions collide: Found objects, self-made constructions, percussion outbursts, raw electronics, acoustic phenomena, experiments with physics laws and material properties.  
 Sound sources are scattered throughout the space, where the performers move around activating or interrupting processes, playing, listening or silencing. Each iteration of the project is distinct, shaped according to the characteristics of the space and the resources available.
 
 

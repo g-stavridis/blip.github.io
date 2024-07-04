@@ -1,6 +1,6 @@
 ---
 layout: project-left
-title: "SETUPS"
+title: "Setups"
 description: ""
 date: 2020-10-20
 weight: 4

@@ -2,7 +2,7 @@
 layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Aeolian Music"
 description: ""
-date: 2020-11-03T10:20:00Z
+date: 2018-11-03T10:20:00Z
 weight: 3
 thumbnail: "/assets/images/gen/projects/aeolian-music-1.jpeg"
 image: "/assets/images/gen/projects/aeolian-music-1.jpeg"

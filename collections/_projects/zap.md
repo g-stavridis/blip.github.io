@@ -2,7 +2,7 @@
 layout: project-left
 title: "Zap!"
 description: ""
-date: 2019-12-20
+date: 2017-12-20
 weight: 2
 # thumbnail: "/assets/images/gen/projects/blip-zap-gmea-march23-7.jpeg"
 thumbnail: "/assets/images/gen/projects/blip-zap-ket-05-24-4.jpeg"
