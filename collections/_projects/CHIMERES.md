@@ -4,7 +4,7 @@ title: "Chimeres"
 description: ""
 date: 2018-11-03T10:20:00Z
 weight: 1
-thumbnail: "/assets/images/gen/projects/blip-chimeres-1.jpg"
+thumbnail: "/assets/images/gen/projects/blip-chimeres-cover-edit.jpeg"
 image: "/assets/images/gen/projects/oblip-chimeres-1.jpg"
 categories: ["performance / installation"]
 client: "performance/installation - sound contraptions"
