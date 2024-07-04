@@ -8,7 +8,7 @@ links:
 permalink: "/about/"
 description: ""
 gallery:
-  - image: "/assets/images/gen/projects/blip-center.jpg"
+  - image: "/assets/images/gen/projects/blip-center-edit.jpeg"
   - image: "/assets/images/gen/projects/zap-gmea-2.jpg"
   - image: "/assets/images/gen/projects/setups-1.jpeg"
 gallery_limit: 1
