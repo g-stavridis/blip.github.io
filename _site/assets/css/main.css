@@ -3696,8 +3696,9 @@ body.has-fixed-header .section:first-of-type { padding-top: 155px; padding-botto
 @media (min-width: 992px) { body.has-fixed-header .section:first-of-type { padding-top: 185px; padding-bottom: 90px; } }
 
 .header { transition: all 200ms linear; font-family: DM Sans, -apple-system, serif; background-color: var(--color-base-bg); padding: 0; color: var(--color-primary); }
-.header .container { display: flex; justify-content: flex-end; align-items: center; height: 70px; }
-@media (min-width: 992px) { .header .container { height: 95px; } }
+.header .container { display: flex; justify-content: flex-end; align-items: center; height: 95px; }
+@media (min-width: 768px) { .header .container { height: 110px; } }
+@media (min-width: 992px) { .header .container { height: 110px; } }
 .header .container .logos { margin-right: auto; }
 .header a { color: var(--color-primary); }
 

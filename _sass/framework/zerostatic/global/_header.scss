@@ -9,10 +9,14 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    height: $header-height - 25;
+    height: $header-height;
+
+    @include media-breakpoint-up(md) {
+      height: $header-height + 15;
+    }
 
     @include media-breakpoint-up(lg) {
-      height: $header-height;
+      height: $header-height + 15;
     }
 
     .logos {
