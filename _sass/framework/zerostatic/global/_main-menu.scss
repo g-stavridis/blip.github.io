@@ -3,9 +3,11 @@
   color: var(--color-base-text);
   font-family: $font-family-base;
   letter-spacing: 0;
+
   @include media-breakpoint-up(md) {
     display: block;
   }
+
   ul {
     height: inherit;
     display: flex;
@@ -14,16 +16,20 @@
     list-style: none;
     margin: 0;
     padding: 0;
+    font-size: 20px;
+
     li {
       height: inherit;
       margin: 0;
       padding: 0;
       list-style: none;
       position: relative;
+
       &:last-of-type {
         margin: 0;
       }
-      > a {
+
+      >a {
         height: inherit;
         font-weight: 400;
         text-transform: capitalize;
@@ -31,26 +37,36 @@
         padding: 10px 10px 10px 10px;
         text-decoration: none;
         color: inherit;
+
         &:hover {
           text-decoration: underline;
+          text-underline-offset: 6px;
+          // font-weight: bold;
         }
+
         @include media-breakpoint-up(lg) {
           padding: 10px 13px 10px 13px;
         }
+
         i {
           font-size: 14px;
         }
       }
     }
+
     li.active {
       a {
         font-weight: bold;
+        text-decoration: underline;
+        text-underline-offset: 6px;
       }
     }
   }
 }
+
 .menu-item-dropdown {
   position: relative;
+
   &:hover {
     .dropdown-menu {
       transition: top 0.25s ease 0s;
@@ -60,6 +76,7 @@
     }
   }
 }
+
 .dropdown-menu {
   top: 40px;
   transition: top 0.25s ease 0s;
@@ -74,38 +91,47 @@
   flex-direction: column;
   z-index: 20;
   background-color: var(--color-base-bg);
+
   .dropdown-item {
     display: flex;
     padding: 16px;
     border-radius: 6px;
+
     &:hover {
       background-color: var(--color-base-bg-3);
       text-decoration: none;
       color: inherit;
     }
+
     .dropdown-item-icon {
       display: block;
       margin-right: 16px;
+
       img {
         width: 40px;
         height: 40px;
       }
+
       html[data-mode="dark"] & {
         display: none;
       }
+
       &.icon-invert {
         display: none;
+
         html[data-mode="dark"] & {
           display: block;
         }
       }
     }
+
     .dropdown-item-content {
       .dropdown-item-name {
         font-size: 16px;
         font-weight: 500;
         color: var(--color-base-text);
       }
+
       .dropdown-item-description {
         font-size: 16px;
         font-weight: 400;

@@ -107,18 +107,18 @@ fonts:
 
 logo:
   logo_text: "blip"
-  logo_image: assets/images/logo/logo.png
-  logo_image_mobile: assets/images/logo/logo-mobile.png
-  logo_image_invert: assets/images/logo/logo-invert.png
-  logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
+  logo_image: assets/images/logo/blip-logo.png
+  logo_image_mobile: assets/images/logo/blip-logo.png
+  logo_image_invert: assets/images/logo/blip-logo.png
+  logo_image_invert_mobile: assets/images/logo/blip-logo.png
   logo_image_desktop_height: "60px"
   logo_image_desktop_width: "120px"
-  logo_image_mobile_height: "40px"
-  logo_image_mobile_width: "120px"
-  show_logo_image_on_mobile: false
-  show_logo_image_on_desktop: false
-  show_logo_text_on_mobile: true
-  show_logo_text_on_desktop: true
+  logo_image_mobile_height: "45px"
+  logo_image_mobile_width: "95px"
+  show_logo_image_on_mobile: true
+  show_logo_image_on_desktop: true
+  show_logo_text_on_mobile: false
+  show_logo_text_on_desktop: false
 
 header:
   fixed: false

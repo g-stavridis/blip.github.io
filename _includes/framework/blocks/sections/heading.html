@@ -10,26 +10,26 @@
 
 <div class="heading">
   {% if badge %}
-    <div class="heading-badge">
-      <span>{{ badge }}</span>
-    </div>
+  <div class="heading-badge">
+    <span>{{ badge }}</span>
+  </div>
   {% endif %}
-  
+
   {% if title %}
-  <div class="heading-heading">
+  <div class="heading-heading" style="display: none;">
     <h1>{{ title }}</h1>
   </div>
   {% endif %}
-  
+
   {% if description %}
-    <div class="heading-description">
-      <p>{{ description }}</p>
-    </div>
+  <div class="heading-description">
+    <p>{{ description }}</p>
+  </div>
   {% endif %}
 
   {% if image and image != "" %}
-    <div class="heading-image">
-      <img {% if title %} alt="{{ title }}" {% endif %} src="{{ image | relative_url }}"/>
-    </div>
+  <div class="heading-image">
+    <img {% if title %} alt="{{ title }}" {% endif %} src="{{ image | relative_url }}" />
+  </div>
   {% endif %}
 </div>
