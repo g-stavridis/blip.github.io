@@ -23,5 +23,5 @@ Together they explore the inherent sound potential of materials, objects and ele
 
 [instagram](https://www.instagram.com/blipduo/){:target="_blank"} | 
 [fb](https://www.facebook.com/people/BLIP-duo/61553158751326/){:target="_blank"} | 
-[youtube](https://youtu.be/DNfIE924CLk?si=7Thv7HAFqFNeUHun){:target="_blank"} |
+[youtube](https://www.youtube.com/watch?v=R5fRUXCq-CU&list=PL9LzXXuboQl1WgpoHlR7MEWGSoufCy5oR){:target="_blank"} |
 [e-mail](mailto:blipduo@gmail.com)
