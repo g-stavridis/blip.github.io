@@ -32,4 +32,6 @@ The audience is invited to observe, listen, experience and engage with the perfo
 A sonic playground where various personal attractions collide: Found objects, self-made constructions, percussion outbursts, raw electronics, acoustic phenomena, experiments with physics laws and material properties.  
 Sound sources are scattered throughout the space, where the performers move around activating or interrupting processes, playing, listening or silencing. Each iteration of the project is distinct, shaped according to the characteristics of the space and the resources available.
 
+*Chimeres* is commissioned by [SUBSET Festival](https://aefestival.gr/subset-festival-2025-festival-neas-moysikis/?lang=en){:target="_blank"} as part of the Athens Epidaurus Festival and will premiere in June 2025 at the Athens Conservatoire.
+
 
